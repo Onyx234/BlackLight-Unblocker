@@ -3,7 +3,7 @@
 body {
     text-align: center;
     background-color: #000000;
-    background-image: url("pexels-asad-photo-maldives-3250614.jpg");
+    background-image: url("");
 }
 
 #input {
@@ -12,17 +12,17 @@ body {
     padding: 10px 10px;
     color:  #000000;
     font-family: 'Courier New', Courier, monospace;
-    background: #2b2a33;
+    background: #000000;
     font-size: 15.55px;
     border-radius: 10px;
-    border-color: #2b2a33;
+    border-color: #333238;
     border-width: 1px;
-    border: 1px solid #7ee3fa;
+    border: 1px solid #4f024b;
     transition: all .5s ease-in-out;
 }
 
 #input:focus {
-	background-color: #7ee3fa;
+	background-color: #4f044a;
 	box-shadow: inset 0 0 1px 1px rgba(0, 0, 0, 0.5);
 }
 
@@ -32,13 +32,13 @@ body {
 
 #submit, .proxy {
     height: 56px;
-    color: #7ee3fa;
+    color: #580453;
     font-size: 14px;
     border-radius: 10px;
-    background: #2b2a33;
-    border: 1px solid #7ee3fa;
+    background: #000000;
+    border: 1px solid #460257;
     font-family: 'Courier New', Courier, monospace;
-    border-color: #7ee3fa;
+    border-color: #3e0261;
     border-width: 1px;
     transition: 0.5s;
     padding: 10px;
@@ -47,16 +47,16 @@ body {
 #submit:hover, .proxy:hover {
     cursor: pointer;
     background: #000000;
-    color: #7ee3fa;
+    color: #470542;
 }
 
 .selected {
-    background-color: #7ee3fa;
+    background-color: #4a0539;
     color: black;
 }
 
 .navbar a {
-    color: #7ee3fa;
+    color: #8c1597;
     display: block;
     float: left;
     font-size: 15px;
@@ -67,12 +67,12 @@ body {
     border-radius: 5px;
     border-width: 1px;
     border: 1px solid;
-    border-color: #7ee3fa;
+    border-color: #45013e;
     transition: 0.5s;
 }
 
 .navbar i {
-    color: grey;
+    color: rgb(255, 255, 255);
     display: block;
     float: left;
     font-family: 'Courier New', Courier, monospace;
@@ -89,7 +89,7 @@ body {
 
 .navbar a:hover {
     cursor: pointer;
-    border-color: rgb(133, 133, 133);
+    border-color: rgb(255, 255, 255);
     border-width: 2.5px;
     padding: 15px 20px;
 }
