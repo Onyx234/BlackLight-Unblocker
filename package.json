@@ -20,3 +20,4 @@
     "start": "node ./node_modules/gatling/gatling.js ./app.js"
   }
 }
+
