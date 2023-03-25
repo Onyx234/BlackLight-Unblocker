@@ -7,4 +7,5 @@ Uses node unblocker to search the web freely.
 
 Update: Added games. There is gonna be a massive design rework in the future, this is gonna look sick boys!
 Update 2: The rework is done, check it out!
+Uses node unblocker, The Simple Unblocker, and Dm Unblcoker.
 
